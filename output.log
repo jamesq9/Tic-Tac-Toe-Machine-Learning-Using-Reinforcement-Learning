@@ -1,0 +1,842 @@
+2017-07-17 05:53:34.332059: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-17 05:53:34.332156: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-17 05:53:34.332170: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-17 05:53:34.332178: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-17 05:53:34.332184: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+
+Could not find old network weights
+Mon Jul 17 05:53:34 2017
+e down rate is  0.007500000000000001
+max iteration = 120.0
+
+iteration 1 completed with 216 wins, 237 losses 47 draws, out of 500 games played, e is 100.0 
+cost is 2886.865788112219 , current_time is Mon Jul 17 05:53:58 2017, time taken is 23.715034246444702 , total time = 0.006587509512901307 hours 
+
+iteration 2 completed with 156 wins, 291 losses 53 draws, out of 500 games played, e is 99.25 
+cost is 2140.7929705815945 , current_time is Mon Jul 17 05:54:21 2017, time taken is 23.319000244140625 , total time = 0.013065009580718146 hours 
+
+iteration 3 completed with 193 wins, 251 losses 56 draws, out of 500 games played, e is 98.50000000000001 
+cost is 2589.5008187740486 , current_time is Mon Jul 17 05:54:44 2017, time taken is 22.596131801605225 , total time = 0.01934171285894182 hours 
+
+iteration 4 completed with 139 wins, 298 losses 63 draws, out of 500 games played, e is 97.75000000000001 
+cost is 1913.0553063706714 , current_time is Mon Jul 17 05:55:08 2017, time taken is 23.80479669570923 , total time = 0.025954156385527716 hours 
+
+iteration 5 completed with 187 wins, 247 losses 66 draws, out of 500 games played, e is 97.00000000000001 
+cost is 2497.251519028853 , current_time is Mon Jul 17 05:55:31 2017, time taken is 22.716115474700928 , total time = 0.03226418846183353 hours 
+
+iteration 6 completed with 160 wins, 289 losses 51 draws, out of 500 games played, e is 96.25000000000003 
+cost is 2117.686774087706 , current_time is Mon Jul 17 05:55:55 2017, time taken is 23.726219415664673 , total time = 0.038854804966184826 hours 
+
+iteration 7 completed with 199 wins, 251 losses 50 draws, out of 500 games played, e is 95.50000000000003 
+cost is 2596.8616534261846 , current_time is Mon Jul 17 05:56:19 2017, time taken is 24.853636980056763 , total time = 0.0457585930162006 hours 
+
+iteration 8 completed with 171 wins, 274 losses 55 draws, out of 500 games played, e is 94.75000000000003 
+cost is 2272.7828900832974 , current_time is Mon Jul 17 05:56:43 2017, time taken is 22.955584049224854 , total time = 0.05213514414098528 hours 
+
+iteration 9 completed with 186 wins, 269 losses 45 draws, out of 500 games played, e is 94.00000000000004 
+cost is 2331.404535480866 , current_time is Mon Jul 17 05:57:07 2017, time taken is 24.080668926239014 , total time = 0.05882421884271834 hours 
+
+iteration 10 completed with 166 wins, 288 losses 46 draws, out of 500 games played, e is 93.25000000000004 
+cost is 2133.6291811832925 , current_time is Mon Jul 17 05:57:30 2017, time taken is 22.845285892486572 , total time = 0.06517013159063127 hours 
+
+iteration 11 completed with 145 wins, 305 losses 50 draws, out of 500 games played, e is 92.50000000000004 
+cost is 2065.8604110143933 , current_time is Mon Jul 17 05:57:52 2017, time taken is 22.290724277496338 , total time = 0.07136199944549136 hours 
+
+iteration 12 completed with 138 wins, 335 losses 27 draws, out of 500 games played, e is 91.75000000000006 
+cost is 1801.918457958549 , current_time is Mon Jul 17 05:58:14 2017, time taken is 22.04292869567871 , total time = 0.07748503519429101 hours 
+
+iteration 13 completed with 113 wins, 344 losses 43 draws, out of 500 games played, e is 91.00000000000006 
+cost is 1463.8300702604874 , current_time is Mon Jul 17 05:58:35 2017, time taken is 20.60781240463257 , total time = 0.08320942752891117 hours 
+
+iteration 14 completed with 129 wins, 350 losses 21 draws, out of 500 games played, e is 90.25000000000006 
+cost is 1699.2758432880546 , current_time is Mon Jul 17 05:58:55 2017, time taken is 20.277554750442505 , total time = 0.0888420816262563 hours 
+
+iteration 15 completed with 121 wins, 339 losses 40 draws, out of 500 games played, e is 89.50000000000007 
+cost is 1392.3625388784822 , current_time is Mon Jul 17 05:59:16 2017, time taken is 21.075183153152466 , total time = 0.09469629916879865 hours 
+
+iteration 16 completed with 106 wins, 355 losses 39 draws, out of 500 games played, e is 88.75000000000007 
+cost is 1315.724607016739 , current_time is Mon Jul 17 05:59:37 2017, time taken is 20.780248403549194 , total time = 0.10046859039200677 hours 
+
+iteration 17 completed with 112 wins, 362 losses 26 draws, out of 500 games played, e is 88.00000000000009 
+cost is 1327.2457338978484 , current_time is Mon Jul 17 05:59:57 2017, time taken is 19.909279108047485 , total time = 0.10599894569979773 hours 
+
+iteration 18 completed with 91 wins, 376 losses 33 draws, out of 500 games played, e is 87.25000000000009 
+cost is 1055.7225191201792 , current_time is Mon Jul 17 06:00:18 2017, time taken is 20.801312923431396 , total time = 0.11177708817852867 hours 
+
+iteration 19 completed with 92 wins, 387 losses 21 draws, out of 500 games played, e is 86.50000000000009 
+cost is 1024.9914667264536 , current_time is Mon Jul 17 06:00:38 2017, time taken is 19.43335199356079 , total time = 0.11717524151007334 hours 
+
+iteration 20 completed with 111 wins, 375 losses 14 draws, out of 500 games played, e is 85.7500000000001 
+cost is 1125.3309385724015 , current_time is Mon Jul 17 06:00:58 2017, time taken is 19.863607168197632 , total time = 0.12269291016790602 hours 
+
+iteration 21 completed with 113 wins, 370 losses 17 draws, out of 500 games played, e is 85.0000000000001 
+cost is 1085.5421679272931 , current_time is Mon Jul 17 06:01:18 2017, time taken is 20.151161670684814 , total time = 0.12829045507642958 hours 
+
+iteration 22 completed with 91 wins, 375 losses 34 draws, out of 500 games played, e is 84.2500000000001 
+cost is 961.3257443743647 , current_time is Mon Jul 17 06:01:39 2017, time taken is 20.620705604553223 , total time = 0.13401842885547213 hours 
+
+iteration 23 completed with 79 wins, 386 losses 35 draws, out of 500 games played, e is 83.50000000000011 
+cost is 878.5622947978434 , current_time is Mon Jul 17 06:01:59 2017, time taken is 19.841490983963013 , total time = 0.1395299541287952 hours 
+
+iteration 24 completed with 77 wins, 387 losses 36 draws, out of 500 games played, e is 82.75000000000011 
+cost is 742.3733487033943 , current_time is Mon Jul 17 06:02:19 2017, time taken is 20.346789360046387 , total time = 0.1451818400621414 hours 
+
+iteration 25 completed with 68 wins, 388 losses 44 draws, out of 500 games played, e is 82.00000000000011 
+cost is 700.9538297684371 , current_time is Mon Jul 17 06:02:39 2017, time taken is 20.039738655090332 , total time = 0.15074843413299985 hours 
+
+iteration 26 completed with 77 wins, 375 losses 48 draws, out of 500 games played, e is 81.25000000000013 
+cost is 786.1388112437261 , current_time is Mon Jul 17 06:03:00 2017, time taken is 20.15935468673706 , total time = 0.1563482548793157 hours 
+
+iteration 27 completed with 77 wins, 380 losses 43 draws, out of 500 games played, e is 80.50000000000013 
+cost is 795.0415888469838 , current_time is Mon Jul 17 06:03:20 2017, time taken is 19.884341955184937 , total time = 0.1618716832002004 hours 
+
+iteration 28 completed with 72 wins, 390 losses 38 draws, out of 500 games played, e is 79.75000000000013 
+cost is 714.6485213482501 , current_time is Mon Jul 17 06:03:38 2017, time taken is 18.54891014099121 , total time = 0.16702415823936462 hours 
+
+iteration 29 completed with 76 wins, 391 losses 33 draws, out of 500 games played, e is 79.00000000000014 
+cost is 739.9286666064224 , current_time is Mon Jul 17 06:03:57 2017, time taken is 18.230942964553833 , total time = 0.1720883090628518 hours 
+
+iteration 30 completed with 75 wins, 373 losses 52 draws, out of 500 games played, e is 78.25000000000014 
+cost is 841.8329820643337 , current_time is Mon Jul 17 06:04:16 2017, time taken is 19.376015424728394 , total time = 0.1774705355697208 hours 
+
+iteration 31 completed with 69 wins, 385 losses 46 draws, out of 500 games played, e is 77.50000000000014 
+cost is 667.5671770462859 , current_time is Mon Jul 17 06:04:35 2017, time taken is 19.054816007614136 , total time = 0.18276354001628028 hours 
+
+iteration 32 completed with 87 wins, 379 losses 34 draws, out of 500 games played, e is 76.75000000000016 
+cost is 815.2697181392772 , current_time is Mon Jul 17 06:04:54 2017, time taken is 18.942204236984253 , total time = 0.18802526341544257 hours 
+
+iteration 33 completed with 67 wins, 372 losses 61 draws, out of 500 games played, e is 76.00000000000016 
+cost is 727.9860930904819 , current_time is Mon Jul 17 06:05:15 2017, time taken is 20.36396312713623 , total time = 0.19368191983964708 hours 
+
+iteration 34 completed with 77 wins, 377 losses 46 draws, out of 500 games played, e is 75.25000000000016 
+cost is 687.2054747393213 , current_time is Mon Jul 17 06:05:33 2017, time taken is 18.315828323364258 , total time = 0.1987696499294705 hours 
+
+iteration 35 completed with 72 wins, 386 losses 42 draws, out of 500 games played, e is 74.50000000000017 
+cost is 719.1289785237857 , current_time is Mon Jul 17 06:05:53 2017, time taken is 19.630932807922363 , total time = 0.20422268682056002 hours 
+
+iteration 36 completed with 82 wins, 358 losses 60 draws, out of 500 games played, e is 73.75000000000017 
+cost is 799.7910790631117 , current_time is Mon Jul 17 06:06:14 2017, time taken is 21.09563946723938 , total time = 0.21008258667257096 hours 
+
+iteration 37 completed with 83 wins, 343 losses 74 draws, out of 500 games played, e is 73.00000000000017 
+cost is 809.3201775355519 , current_time is Mon Jul 17 06:06:34 2017, time taken is 19.815033435821533 , total time = 0.21558676262696583 hours 
+
+iteration 38 completed with 84 wins, 348 losses 68 draws, out of 500 games played, e is 72.25000000000018 
+cost is 776.5798851531495 , current_time is Mon Jul 17 06:06:54 2017, time taken is 20.36931085586548 , total time = 0.2212449045313729 hours 
+
+iteration 39 completed with 79 wins, 371 losses 50 draws, out of 500 games played, e is 71.50000000000018 
+cost is 779.4765254270524 , current_time is Mon Jul 17 06:07:14 2017, time taken is 19.360729932785034 , total time = 0.22662288506825765 hours 
+
+iteration 40 completed with 88 wins, 350 losses 62 draws, out of 500 games played, e is 70.75000000000018 
+cost is 799.2446374700561 , current_time is Mon Jul 17 06:07:33 2017, time taken is 19.143123149871826 , total time = 0.23194041927655537 hours 
+
+iteration 41 completed with 93 wins, 358 losses 49 draws, out of 500 games played, e is 70.0000000000002 
+cost is 877.7625653030186 , current_time is Mon Jul 17 06:07:53 2017, time taken is 19.702202558517456 , total time = 0.23741325332058802 hours 
+
+iteration 42 completed with 85 wins, 350 losses 65 draws, out of 500 games played, e is 69.2500000000002 
+cost is 823.7991859980868 , current_time is Mon Jul 17 06:08:12 2017, time taken is 18.918397665023804 , total time = 0.24266836378309461 hours 
+
+iteration 43 completed with 87 wins, 329 losses 84 draws, out of 500 games played, e is 68.5000000000002 
+cost is 801.4281107211809 , current_time is Mon Jul 17 06:08:33 2017, time taken is 20.89548420906067 , total time = 0.24847266495227813 hours 
+
+iteration 44 completed with 78 wins, 343 losses 79 draws, out of 500 games played, e is 67.75000000000021 
+cost is 803.1387467986121 , current_time is Mon Jul 17 06:08:54 2017, time taken is 20.595927000045776 , total time = 0.2541937557856242 hours 
+
+iteration 45 completed with 113 wins, 335 losses 52 draws, out of 500 games played, e is 67.00000000000021 
+cost is 846.0006648978106 , current_time is Mon Jul 17 06:09:14 2017, time taken is 20.06676936149597 , total time = 0.2597678583860397 hours 
+
+iteration 46 completed with 98 wins, 339 losses 63 draws, out of 500 games played, e is 66.25000000000021 
+cost is 751.1614841058948 , current_time is Mon Jul 17 06:09:33 2017, time taken is 18.886173248291016 , total time = 0.26501401762167615 hours 
+
+iteration 47 completed with 90 wins, 336 losses 74 draws, out of 500 games played, e is 65.50000000000023 
+cost is 836.8306571707085 , current_time is Mon Jul 17 06:09:53 2017, time taken is 20.01967430114746 , total time = 0.27057503826088375 hours 
+
+iteration 48 completed with 99 wins, 346 losses 55 draws, out of 500 games played, e is 64.75000000000023 
+cost is 784.0850630745388 , current_time is Mon Jul 17 06:10:15 2017, time taken is 21.79366445541382 , total time = 0.27662883394294313 hours 
+
+iteration 49 completed with 71 wins, 338 losses 91 draws, out of 500 games played, e is 64.00000000000023 
+cost is 722.2790041781436 , current_time is Mon Jul 17 06:10:36 2017, time taken is 20.951600074768066 , total time = 0.2824487228526009 hours 
+
+iteration 50 completed with 99 wins, 352 losses 49 draws, out of 500 games played, e is 63.25000000000024 
+cost is 988.085983640316 , current_time is Mon Jul 17 06:10:56 2017, time taken is 19.722891807556152 , total time = 0.28792730391025545 hours 
+
+iteration 51 completed with 88 wins, 331 losses 81 draws, out of 500 games played, e is 62.50000000000024 
+cost is 787.6232629888036 , current_time is Mon Jul 17 06:11:18 2017, time taken is 22.50749707221985 , total time = 0.2941793864303165 hours 
+
+iteration 52 completed with 143 wins, 308 losses 49 draws, out of 500 games played, e is 61.75000000000025 
+cost is 1010.1383002876958 , current_time is Mon Jul 17 06:11:40 2017, time taken is 21.63062882423401 , total time = 0.3001878944370482 hours 
+
+iteration 53 completed with 78 wins, 338 losses 84 draws, out of 500 games played, e is 61.000000000000256 
+cost is 743.4401328739277 , current_time is Mon Jul 17 06:12:02 2017, time taken is 21.847211360931396 , total time = 0.30625656425952913 hours 
+
+iteration 54 completed with 93 wins, 360 losses 47 draws, out of 500 games played, e is 60.250000000000256 
+cost is 751.3968181693717 , current_time is Mon Jul 17 06:12:23 2017, time taken is 21.587175130844116 , total time = 0.3122530017958747 hours 
+
+iteration 55 completed with 95 wins, 309 losses 96 draws, out of 500 games played, e is 59.50000000000026 
+cost is 852.9902351740384 , current_time is Mon Jul 17 06:12:45 2017, time taken is 21.024166345596313 , total time = 0.31809304800298477 hours 
+
+iteration 56 completed with 109 wins, 311 losses 80 draws, out of 500 games played, e is 58.75000000000027 
+cost is 852.369300866867 , current_time is Mon Jul 17 06:13:07 2017, time taken is 22.31767225265503 , total time = 0.32429240140650006 hours 
+
+iteration 57 completed with 128 wins, 316 losses 56 draws, out of 500 games played, e is 58.00000000000027 
+cost is 879.7748410997201 , current_time is Mon Jul 17 06:13:26 2017, time taken is 18.886431217193604 , total time = 0.32953863230016495 hours 
+
+iteration 58 completed with 70 wins, 323 losses 107 draws, out of 500 games played, e is 57.25000000000028 
+cost is 716.4250254662757 , current_time is Mon Jul 17 06:13:46 2017, time taken is 20.21140432357788 , total time = 0.3351529112789366 hours 
+
+iteration 59 completed with 92 wins, 294 losses 114 draws, out of 500 games played, e is 56.500000000000284 
+cost is 699.1049224516487 , current_time is Mon Jul 17 06:14:08 2017, time taken is 21.162723541259766 , total time = 0.3410314455959532 hours 
+
+iteration 60 completed with 99 wins, 301 losses 100 draws, out of 500 games played, e is 55.75000000000029 
+cost is 791.8542696073707 , current_time is Mon Jul 17 06:14:28 2017, time taken is 20.581520795822144 , total time = 0.3467485347059038 hours 
+
+iteration 61 completed with 118 wins, 337 losses 45 draws, out of 500 games played, e is 55.00000000000029 
+cost is 886.7002571193793 , current_time is Mon Jul 17 06:14:48 2017, time taken is 19.288400888442993 , total time = 0.3521064238415824 hours 
+
+iteration 62 completed with 105 wins, 285 losses 110 draws, out of 500 games played, e is 54.2500000000003 
+cost is 759.3851727983952 , current_time is Mon Jul 17 06:15:09 2017, time taken is 21.2332181930542 , total time = 0.3580045400063197 hours 
+
+iteration 63 completed with 115 wins, 311 losses 74 draws, out of 500 games played, e is 53.500000000000306 
+cost is 834.2842780077038 , current_time is Mon Jul 17 06:15:29 2017, time taken is 20.32165503501892 , total time = 0.36364944418271383 hours 
+
+iteration 64 completed with 102 wins, 311 losses 87 draws, out of 500 games played, e is 52.750000000000306 
+cost is 761.5682229687536 , current_time is Mon Jul 17 06:15:49 2017, time taken is 19.93244481086731 , total time = 0.3691862344079547 hours 
+
+iteration 65 completed with 104 wins, 328 losses 68 draws, out of 500 games played, e is 52.00000000000031 
+cost is 771.8044202853698 , current_time is Mon Jul 17 06:16:09 2017, time taken is 19.497396230697632 , total time = 0.37460217780537075 hours 
+
+iteration 66 completed with 94 wins, 290 losses 116 draws, out of 500 games played, e is 51.25000000000032 
+cost is 873.7939268952691 , current_time is Mon Jul 17 06:16:30 2017, time taken is 21.306515216827393 , total time = 0.3805206542544895 hours 
+
+iteration 67 completed with 112 wins, 257 losses 131 draws, out of 500 games played, e is 50.50000000000032 
+cost is 756.0251347712536 , current_time is Mon Jul 17 06:16:51 2017, time taken is 20.73087167739868 , total time = 0.38627922972043355 hours 
+
+iteration 68 completed with 115 wins, 301 losses 84 draws, out of 500 games played, e is 49.75000000000032 
+cost is 825.1698723561258 , current_time is Mon Jul 17 06:17:11 2017, time taken is 19.474812984466553 , total time = 0.3916888999938965 hours 
+
+iteration 69 completed with 109 wins, 301 losses 90 draws, out of 500 games played, e is 49.00000000000032 
+cost is 833.2125056464363 , current_time is Mon Jul 17 06:17:30 2017, time taken is 19.270219564437866 , total time = 0.3970417387617959 hours 
+
+iteration 70 completed with 102 wins, 274 losses 124 draws, out of 500 games played, e is 48.25000000000032 
+cost is 779.7443563932906 , current_time is Mon Jul 17 06:17:50 2017, time taken is 19.998174905776978 , total time = 0.40259678734673393 hours 
+
+iteration 71 completed with 127 wins, 300 losses 73 draws, out of 500 games played, e is 47.50000000000032 
+cost is 847.2865978778507 , current_time is Mon Jul 17 06:18:11 2017, time taken is 20.73875331878662 , total time = 0.408357552157508 hours 
+
+iteration 72 completed with 121 wins, 247 losses 132 draws, out of 500 games played, e is 46.75000000000032 
+cost is 910.6720374801621 , current_time is Mon Jul 17 06:18:34 2017, time taken is 22.558170795440674 , total time = 0.4146237107117971 hours 
+
+iteration 73 completed with 131 wins, 292 losses 77 draws, out of 500 games played, e is 46.00000000000032 
+cost is 777.8442713901891 , current_time is Mon Jul 17 06:18:54 2017, time taken is 19.87474799156189 , total time = 0.4201444740427865 hours 
+
+iteration 74 completed with 144 wins, 254 losses 102 draws, out of 500 games played, e is 45.25000000000032 
+cost is 743.9821007255457 , current_time is Mon Jul 17 06:19:18 2017, time taken is 23.877498626708984 , total time = 0.4267771125502057 hours 
+
+iteration 75 completed with 145 wins, 284 losses 71 draws, out of 500 games played, e is 44.50000000000032 
+cost is 818.2787547509206 , current_time is Mon Jul 17 06:19:38 2017, time taken is 19.8014714717865 , total time = 0.43227752129236857 hours 
+
+iteration 76 completed with 97 wins, 263 losses 140 draws, out of 500 games played, e is 43.75000000000032 
+cost is 709.0438400650671 , current_time is Mon Jul 17 06:20:01 2017, time taken is 23.590828895568848 , total time = 0.4388305293189155 hours 
+
+iteration 77 completed with 150 wins, 256 losses 94 draws, out of 500 games played, e is 43.00000000000031 
+cost is 759.4977083240274 , current_time is Mon Jul 17 06:20:23 2017, time taken is 21.643978595733643 , total time = 0.4448427455955081 hours 
+
+iteration 78 completed with 146 wins, 253 losses 101 draws, out of 500 games played, e is 42.25000000000031 
+cost is 758.2287276960591 , current_time is Mon Jul 17 06:20:44 2017, time taken is 20.55932927131653 , total time = 0.4505536703930961 hours 
+
+iteration 79 completed with 117 wins, 251 losses 132 draws, out of 500 games played, e is 41.50000000000031 
+cost is 728.5513484217017 , current_time is Mon Jul 17 06:21:05 2017, time taken is 20.77396035194397 , total time = 0.45632421493530273 hours 
+
+iteration 80 completed with 116 wins, 227 losses 157 draws, out of 500 games played, e is 40.75000000000031 
+cost is 838.8057201657789 , current_time is Mon Jul 17 06:21:29 2017, time taken is 23.968124866485596 , total time = 0.4629820273982154 hours 
+
+iteration 81 completed with 170 wins, 261 losses 69 draws, out of 500 games played, e is 40.00000000000031 
+cost is 848.1344014866303 , current_time is Mon Jul 17 06:21:47 2017, time taken is 18.736480712890625 , total time = 0.46818660537401835 hours 
+
+iteration 82 completed with 106 wins, 220 losses 174 draws, out of 500 games played, e is 39.25000000000031 
+cost is 679.6016152525353 , current_time is Mon Jul 17 06:22:07 2017, time taken is 19.92915964126587 , total time = 0.47372248305214776 hours 
+
+iteration 83 completed with 129 wins, 283 losses 88 draws, out of 500 games played, e is 38.50000000000031 
+cost is 643.3637121724056 , current_time is Mon Jul 17 06:22:27 2017, time taken is 19.264548540115356 , total time = 0.47907374653551316 hours 
+
+iteration 84 completed with 89 wins, 233 losses 178 draws, out of 500 games played, e is 37.75000000000031 
+cost is 644.4873483632384 , current_time is Mon Jul 17 06:22:48 2017, time taken is 21.25924277305603 , total time = 0.48497909175025095 hours 
+
+iteration 85 completed with 158 wins, 246 losses 96 draws, out of 500 games played, e is 37.00000000000031 
+cost is 654.9971654917972 , current_time is Mon Jul 17 06:23:08 2017, time taken is 19.705637454986572 , total time = 0.4904528799321916 hours 
+
+iteration 86 completed with 122 wins, 195 losses 183 draws, out of 500 games played, e is 36.25000000000031 
+cost is 736.5585085250511 , current_time is Mon Jul 17 06:23:29 2017, time taken is 20.94363784790039 , total time = 0.49627055711216395 hours 
+
+iteration 87 completed with 158 wins, 243 losses 99 draws, out of 500 games played, e is 35.50000000000031 
+cost is 739.7724152865651 , current_time is Mon Jul 17 06:23:48 2017, time taken is 19.37535786628723 , total time = 0.5016526009639104 hours 
+
+iteration 88 completed with 104 wins, 231 losses 165 draws, out of 500 games played, e is 34.750000000000306 
+cost is 664.2429780542213 , current_time is Mon Jul 17 06:24:09 2017, time taken is 20.44166111946106 , total time = 0.5073308401637607 hours 
+
+iteration 89 completed with 134 wins, 203 losses 163 draws, out of 500 games played, e is 34.000000000000306 
+cost is 829.4123531886057 , current_time is Mon Jul 17 06:24:29 2017, time taken is 19.79907774925232 , total time = 0.5128305839829975 hours 
+
+iteration 90 completed with 136 wins, 247 losses 117 draws, out of 500 games played, e is 33.250000000000306 
+cost is 770.3375220517464 , current_time is Mon Jul 17 06:24:50 2017, time taken is 21.597922563552856 , total time = 0.5188300069173177 hours 
+
+iteration 91 completed with 111 wins, 201 losses 188 draws, out of 500 games played, e is 32.500000000000306 
+cost is 612.5573600936558 , current_time is Mon Jul 17 06:25:29 2017, time taken is 38.91775417327881 , total time = 0.5296404941876729 hours 
+
+iteration 92 completed with 171 wins, 262 losses 67 draws, out of 500 games played, e is 31.750000000000306 
+cost is 946.5508312132247 , current_time is Mon Jul 17 06:25:51 2017, time taken is 21.03591799736023 , total time = 0.5354838047424952 hours 
+
+iteration 93 completed with 169 wins, 266 losses 65 draws, out of 500 games played, e is 31.000000000000306 
+cost is 743.9103116634585 , current_time is Mon Jul 17 06:26:12 2017, time taken is 21.853002786636353 , total time = 0.5415540832943386 hours 
+
+iteration 94 completed with 171 wins, 228 losses 101 draws, out of 500 games played, e is 30.250000000000306 
+cost is 813.5299055603082 , current_time is Mon Jul 17 06:26:34 2017, time taken is 21.236574172973633 , total time = 0.5474531316757202 hours 
+
+iteration 95 completed with 118 wins, 193 losses 189 draws, out of 500 games played, e is 29.500000000000306 
+cost is 704.2078220877714 , current_time is Mon Jul 17 06:26:57 2017, time taken is 22.88111639022827 , total time = 0.5538089973396725 hours 
+
+iteration 96 completed with 118 wins, 151 losses 231 draws, out of 500 games played, e is 28.750000000000302 
+cost is 629.7065685827682 , current_time is Mon Jul 17 06:27:20 2017, time taken is 23.498284578323364 , total time = 0.560336298611429 hours 
+
+iteration 97 completed with 117 wins, 188 losses 195 draws, out of 500 games played, e is 28.000000000000302 
+cost is 661.848007517646 , current_time is Mon Jul 17 06:27:42 2017, time taken is 21.899876594543457 , total time = 0.5664195976654689 hours 
+
+iteration 98 completed with 141 wins, 179 losses 180 draws, out of 500 games played, e is 27.250000000000302 
+cost is 752.4850883952993 , current_time is Mon Jul 17 06:28:07 2017, time taken is 24.633103609085083 , total time = 0.5732621264457702 hours 
+
+iteration 99 completed with 126 wins, 170 losses 204 draws, out of 500 games played, e is 26.500000000000302 
+cost is 757.1595244367932 , current_time is Mon Jul 17 06:28:29 2017, time taken is 21.55934500694275 , total time = 0.5792508333921432 hours 
+
+iteration 100 completed with 119 wins, 198 losses 183 draws, out of 500 games played, e is 25.750000000000302 
+cost is 696.3813972666258 , current_time is Mon Jul 17 06:28:50 2017, time taken is 21.2168071269989 , total time = 0.5851443909274208 hours 
+
+iteration 101 completed with 119 wins, 170 losses 211 draws, out of 500 games played, e is 25.0000000000003 
+cost is 646.9023166210609 , current_time is Mon Jul 17 06:29:11 2017, time taken is 20.966346502304077 , total time = 0.5909683760669496 hours 
+
+iteration 102 completed with 137 wins, 177 losses 186 draws, out of 500 games played, e is 24.2500000000003 
+cost is 746.9973165429261 , current_time is Mon Jul 17 06:29:33 2017, time taken is 21.384307861328125 , total time = 0.5969084615839853 hours 
+
+iteration 103 completed with 142 wins, 147 losses 211 draws, out of 500 games played, e is 23.5000000000003 
+cost is 830.9962957593511 , current_time is Mon Jul 17 06:29:58 2017, time taken is 25.209960222244263 , total time = 0.6039112283123864 hours 
+
+iteration 104 completed with 182 wins, 202 losses 116 draws, out of 500 games played, e is 22.7500000000003 
+cost is 631.5773201234433 , current_time is Mon Jul 17 06:30:22 2017, time taken is 24.13699960708618 , total time = 0.6106159504254659 hours 
+
+iteration 105 completed with 135 wins, 148 losses 217 draws, out of 500 games played, e is 22.0000000000003 
+cost is 719.2949318830092 , current_time is Mon Jul 17 06:30:46 2017, time taken is 23.582922220230103 , total time = 0.6171667621533076 hours 
+
+iteration 106 completed with 123 wins, 134 losses 243 draws, out of 500 games played, e is 21.250000000000295 
+cost is 632.6858778037895 , current_time is Mon Jul 17 06:31:09 2017, time taken is 22.993448972702026 , total time = 0.6235538313123915 hours 
+
+iteration 107 completed with 142 wins, 137 losses 221 draws, out of 500 games played, e is 20.500000000000295 
+cost is 654.8822625557457 , current_time is Mon Jul 17 06:31:32 2017, time taken is 23.114171743392944 , total time = 0.6299744345744451 hours 
+
+iteration 108 completed with 114 wins, 123 losses 263 draws, out of 500 games played, e is 19.750000000000295 
+cost is 619.9249791826594 , current_time is Mon Jul 17 06:31:55 2017, time taken is 23.021870851516724 , total time = 0.6363693986998664 hours 
+
+iteration 109 completed with 116 wins, 123 losses 261 draws, out of 500 games played, e is 19.000000000000295 
+cost is 619.0312839871577 , current_time is Mon Jul 17 06:32:19 2017, time taken is 23.338783502578735 , total time = 0.6428523941172494 hours 
+
+iteration 110 completed with 141 wins, 105 losses 254 draws, out of 500 games played, e is 18.250000000000295 
+cost is 750.9702871216599 , current_time is Mon Jul 17 06:32:41 2017, time taken is 22.749123573303223 , total time = 0.6491715951098336 hours 
+
+iteration 111 completed with 147 wins, 108 losses 245 draws, out of 500 games played, e is 17.50000000000029 
+cost is 643.3671204445294 , current_time is Mon Jul 17 06:33:06 2017, time taken is 24.63927698135376 , total time = 0.6560158387157652 hours 
+
+iteration 112 completed with 213 wins, 175 losses 112 draws, out of 500 games played, e is 16.75000000000029 
+cost is 721.1547855414537 , current_time is Mon Jul 17 06:33:28 2017, time taken is 22.157091856002808 , total time = 0.6621705864535438 hours 
+
+iteration 113 completed with 126 wins, 110 losses 264 draws, out of 500 games played, e is 16.00000000000029 
+cost is 529.1878742251869 , current_time is Mon Jul 17 06:33:52 2017, time taken is 23.42775249481201 , total time = 0.6686782954798804 hours 
+
+iteration 114 completed with 211 wins, 181 losses 108 draws, out of 500 games played, e is 15.250000000000291 
+cost is 595.0577942792362 , current_time is Mon Jul 17 06:34:12 2017, time taken is 20.01607346534729 , total time = 0.6742383158869214 hours 
+
+iteration 115 completed with 136 wins, 107 losses 257 draws, out of 500 games played, e is 14.500000000000291 
+cost is 682.4043907679478 , current_time is Mon Jul 17 06:34:35 2017, time taken is 22.433372974395752 , total time = 0.6804698083798091 hours 
+
+iteration 116 completed with 153 wins, 83 losses 264 draws, out of 500 games played, e is 13.75000000000029 
+cost is 637.8757590001655 , current_time is Mon Jul 17 06:34:56 2017, time taken is 21.873249292373657 , total time = 0.686545710961024 hours 
+
+iteration 117 completed with 133 wins, 66 losses 301 draws, out of 500 games played, e is 13.00000000000029 
+cost is 574.4311553491193 , current_time is Mon Jul 17 06:35:20 2017, time taken is 23.726248025894165 , total time = 0.6931363354126613 hours 
+
+iteration 118 completed with 126 wins, 96 losses 278 draws, out of 500 games played, e is 12.250000000000288 
+cost is 686.4738508718499 , current_time is Mon Jul 17 06:35:44 2017, time taken is 23.3681902885437 , total time = 0.6996274993817011 hours 
+
+iteration 119 completed with 154 wins, 86 losses 260 draws, out of 500 games played, e is 11.500000000000288 
+cost is 677.0380299265207 , current_time is Mon Jul 17 06:36:07 2017, time taken is 23.308689832687378 , total time = 0.7061021354463365 hours 
+
+iteration 120 completed with 141 wins, 104 losses 255 draws, out of 500 games played, e is 10.750000000000288 
+cost is 658.221676546902 , current_time is Mon Jul 17 06:36:30 2017, time taken is 23.228222131729126 , total time = 0.7125544193718168 hours 
+
+iteration 121 completed with 134 wins, 95 losses 271 draws, out of 500 games played, e is 10.000000000000286 
+cost is 591.1438103552803 , current_time is Mon Jul 17 06:36:54 2017, time taken is 23.724891185760498 , total time = 0.7191446669234169 hours 
+
+iteration 122 completed with 139 wins, 62 losses 299 draws, out of 500 games played, e is 9.250000000000286 
+cost is 626.613213387157 , current_time is Mon Jul 17 06:37:16 2017, time taken is 21.683337450027466 , total time = 0.7251678162150913 hours 
+
+iteration 123 completed with 122 wins, 72 losses 306 draws, out of 500 games played, e is 8.500000000000284 
+cost is 541.8301642193728 , current_time is Mon Jul 17 06:37:38 2017, time taken is 22.34636664390564 , total time = 0.7313751402828429 hours 
+
+iteration 124 completed with 152 wins, 56 losses 292 draws, out of 500 games played, e is 7.750000000000284 
+cost is 650.5938044280666 , current_time is Mon Jul 17 06:38:02 2017, time taken is 23.76812243461609 , total time = 0.7379773965146806 hours 
+
+iteration 125 completed with 145 wins, 70 losses 285 draws, out of 500 games played, e is 7.000000000000284 
+cost is 575.6284344543956 , current_time is Mon Jul 17 06:38:26 2017, time taken is 23.658504486083984 , total time = 0.7445492033163706 hours 
+
+iteration 126 completed with 164 wins, 67 losses 269 draws, out of 500 games played, e is 6.250000000000283 
+cost is 703.3190661901342 , current_time is Mon Jul 17 06:38:50 2017, time taken is 23.89455533027649 , total time = 0.751186579797003 hours 
+
+iteration 127 completed with 163 wins, 49 losses 288 draws, out of 500 games played, e is 5.500000000000283 
+cost is 625.9248103915995 , current_time is Mon Jul 17 06:39:15 2017, time taken is 25.07096791267395 , total time = 0.7581507375505235 hours 
+
+iteration 128 completed with 142 wins, 33 losses 325 draws, out of 500 games played, e is 4.750000000000283 
+cost is 582.4693105080905 , current_time is Mon Jul 17 06:39:40 2017, time taken is 24.410439252853394 , total time = 0.7649314151207606 hours 
+
+iteration 129 completed with 160 wins, 44 losses 296 draws, out of 500 games played, e is 4.000000000000283 
+cost is 620.4978908122557 , current_time is Mon Jul 17 06:40:03 2017, time taken is 23.176705837249756 , total time = 0.7713693889644411 hours 
+
+iteration 130 completed with 123 wins, 24 losses 353 draws, out of 500 games played, e is 3.2500000000002833 
+cost is 483.9590734464563 , current_time is Mon Jul 17 06:40:28 2017, time taken is 24.510480880737305 , total time = 0.778177855875757 hours 
+
+iteration 131 completed with 153 wins, 22 losses 325 draws, out of 500 games played, e is 2.5000000000002833 
+cost is 594.4833463117907 , current_time is Mon Jul 17 06:40:51 2017, time taken is 23.763018369674683 , total time = 0.7847786943117777 hours 
+
+iteration 132 completed with 235 wins, 180 losses 85 draws, out of 500 games played, e is 1.7500000000002833 
+cost is 607.9509942922841 , current_time is Mon Jul 17 06:41:14 2017, time taken is 22.924762964248657 , total time = 0.7911466840240691 hours 
+
+iteration 133 completed with 152 wins, 11 losses 337 draws, out of 500 games played, e is 1.0000000000002833 
+cost is 570.0478283006812 , current_time is Mon Jul 17 06:41:40 2017, time taken is 25.244548320770264 , total time = 0.7981590585576164 hours 
+
+iteration 134 completed with 167 wins, 13 losses 320 draws, out of 500 games played, e is 0.2500000000002832 
+cost is 592.1012047165175 , current_time is Mon Jul 17 06:42:05 2017, time taken is 24.742971181869507 , total time = 0.8050321061081357 hours 
+
+iteration 135 completed with 161 wins, 1 losses 338 draws, out of 500 games played, e is -0.49999999999971684 
+cost is 546.639149941705 , current_time is Mon Jul 17 06:42:28 2017, time taken is 23.676130294799805 , total time = 0.8116088089678023 hours 
+
+iteration 136 completed with 169 wins, 7 losses 324 draws, out of 500 games played, e is -1.249999999999717 
+cost is 601.3387748046816 , current_time is Mon Jul 17 06:42:52 2017, time taken is 23.65377378463745 , total time = 0.8181793016857571 hours 
+
+iteration 137 completed with 320 wins, 109 losses 71 draws, out of 500 games played, e is -1.999999999999717 
+cost is 483.62190870202 , current_time is Mon Jul 17 06:43:12 2017, time taken is 20.21022057533264 , total time = 0.8237932518455717 hours 
+
+iteration 138 completed with 167 wins, 18 losses 315 draws, out of 500 games played, e is -2.749999999999717 
+cost is 573.0503261903477 , current_time is Mon Jul 17 06:43:34 2017, time taken is 21.958887338638306 , total time = 0.8298929427729712 hours 
+
+iteration 139 completed with 171 wins, 4 losses 325 draws, out of 500 games played, e is -3.499999999999717 
+cost is 625.2133608713648 , current_time is Mon Jul 17 06:43:58 2017, time taken is 23.855167150497437 , total time = 0.8365193780925538 hours 
+
+iteration 140 completed with 169 wins, 4 losses 327 draws, out of 500 games played, e is -4.249999999999718 
+cost is 609.4936771772417 , current_time is Mon Jul 17 06:44:23 2017, time taken is 24.593464136123657 , total time = 0.8433508959081438 hours 
+
+iteration 141 completed with 162 wins, 2 losses 336 draws, out of 500 games played, e is -4.999999999999718 
+cost is 587.6172894173087 , current_time is Mon Jul 17 06:44:46 2017, time taken is 23.389349222183228 , total time = 0.8498479373587502 hours 
+
+iteration 142 completed with 177 wins, 2 losses 321 draws, out of 500 games played, e is -5.749999999999718 
+cost is 619.2496191374555 , current_time is Mon Jul 17 06:45:11 2017, time taken is 24.32149910926819 , total time = 0.8566039093335469 hours 
+
+iteration 143 completed with 129 wins, 2 losses 369 draws, out of 500 games played, e is -6.499999999999718 
+cost is 489.752459450169 , current_time is Mon Jul 17 06:45:35 2017, time taken is 24.36773133277893 , total time = 0.8633727235926523 hours 
+
+iteration 144 completed with 163 wins, 5 losses 332 draws, out of 500 games played, e is -7.249999999999718 
+cost is 592.478386754442 , current_time is Mon Jul 17 06:46:01 2017, time taken is 25.703701972961426 , total time = 0.8705126408073637 hours 
+
+iteration 145 completed with 175 wins, 1 losses 324 draws, out of 500 games played, e is -7.9999999999997184 
+cost is 600.3824214280071 , current_time is Mon Jul 17 06:46:27 2017, time taken is 25.849515914916992 , total time = 0.8776930618948406 hours 
+
+iteration 146 completed with 164 wins, 0 losses 336 draws, out of 500 games played, e is -8.74999999999972 
+cost is 575.4465161052794 , current_time is Mon Jul 17 06:46:51 2017, time taken is 24.268972158432007 , total time = 0.8844344430499607 hours 
+
+iteration 147 completed with 181 wins, 0 losses 319 draws, out of 500 games played, e is -9.49999999999972 
+cost is 590.4291927403619 , current_time is Mon Jul 17 06:47:16 2017, time taken is 24.550586223602295 , total time = 0.8912540503342946 hours 
+
+iteration 148 completed with 162 wins, 7 losses 331 draws, out of 500 games played, e is -10.249999999999721 
+cost is 612.9941990968769 , current_time is Mon Jul 17 06:47:41 2017, time taken is 24.950700521469116 , total time = 0.8981848004791472 hours 
+
+iteration 149 completed with 163 wins, 2 losses 335 draws, out of 500 games played, e is -10.999999999999721 
+cost is 583.2754722423524 , current_time is Mon Jul 17 06:48:05 2017, time taken is 23.90508198738098 , total time = 0.9048251010311974 hours 
+
+iteration 150 completed with 159 wins, 16 losses 325 draws, out of 500 games played, e is -11.749999999999721 
+cost is 602.1231366531638 , current_time is Mon Jul 17 06:48:30 2017, time taken is 24.78900122642517 , total time = 0.9117109347052045 hours 
+
+iteration 151 completed with 165 wins, 10 losses 325 draws, out of 500 games played, e is -12.499999999999723 
+cost is 600.1444732168811 , current_time is Mon Jul 17 06:48:53 2017, time taken is 22.781444787979126 , total time = 0.9180391138129764 hours 
+
+iteration 152 completed with 339 wins, 104 losses 57 draws, out of 500 games played, e is -13.249999999999723 
+cost is 598.735589029094 , current_time is Mon Jul 17 06:49:13 2017, time taken is 20.475444316864014 , total time = 0.9237267372343275 hours 
+
+iteration 153 completed with 306 wins, 119 losses 75 draws, out of 500 games played, e is -13.999999999999723 
+cost is 539.0941083295148 , current_time is Mon Jul 17 06:49:34 2017, time taken is 20.692501306533813 , total time = 0.9294746542639203 hours 
+
+iteration 154 completed with 177 wins, 10 losses 313 draws, out of 500 games played, e is -14.749999999999725 
+cost is 610.3184447540316 , current_time is Mon Jul 17 06:49:56 2017, time taken is 22.313397884368896 , total time = 0.9356728203429117 hours 
+
+iteration 155 completed with 172 wins, 8 losses 320 draws, out of 500 games played, e is -15.499999999999725 
+cost is 572.0935001294524 , current_time is Mon Jul 17 06:50:23 2017, time taken is 26.32479953765869 , total time = 0.942985264658928 hours 
+
+iteration 156 completed with 187 wins, 10 losses 303 draws, out of 500 games played, e is -16.249999999999726 
+cost is 623.0242999096022 , current_time is Mon Jul 17 06:50:51 2017, time taken is 27.622929334640503 , total time = 0.9506583005852169 hours 
+
+iteration 157 completed with 193 wins, 6 losses 301 draws, out of 500 games played, e is -16.999999999999726 
+cost is 621.857491540246 , current_time is Mon Jul 17 06:51:19 2017, time taken is 27.87983202934265 , total time = 0.9584026983711454 hours 
+
+iteration 158 completed with 159 wins, 10 losses 331 draws, out of 500 games played, e is -17.749999999999726 
+cost is 543.5148968477813 , current_time is Mon Jul 17 06:51:44 2017, time taken is 24.940656423568726 , total time = 0.9653306584888034 hours 
+
+iteration 159 completed with 162 wins, 11 losses 327 draws, out of 500 games played, e is -18.499999999999726 
+cost is 523.2074562787284 , current_time is Mon Jul 17 06:52:07 2017, time taken is 22.89976167678833 , total time = 0.9716917033990224 hours 
+
+iteration 160 completed with 168 wins, 5 losses 327 draws, out of 500 games played, e is -19.24999999999973 
+cost is 531.1698848851515 , current_time is Mon Jul 17 06:52:31 2017, time taken is 24.12558102607727 , total time = 0.9783932536840438 hours 
+
+iteration 161 completed with 175 wins, 10 losses 315 draws, out of 500 games played, e is -19.99999999999973 
+cost is 570.6973781984188 , current_time is Mon Jul 17 06:52:54 2017, time taken is 22.69275403022766 , total time = 0.9846967964702182 hours 
+
+iteration 162 completed with 181 wins, 7 losses 312 draws, out of 500 games played, e is -20.74999999999973 
+cost is 617.1116241254729 , current_time is Mon Jul 17 06:53:17 2017, time taken is 23.30199646949768 , total time = 0.9911695732673009 hours 
+
+iteration 163 completed with 152 wins, 34 losses 314 draws, out of 500 games played, e is 3.0 
+cost is 543.2123752540352 , current_time is Mon Jul 17 06:53:46 2017, time taken is 29.324830055236816 , total time = 0.9993153593937556 hours 
+
+iteration 164 completed with 144 wins, 38 losses 318 draws, out of 500 games played, e is 2.25 
+cost is 575.7065962043519 , current_time is Mon Jul 17 06:54:09 2017, time taken is 23.07659602165222 , total time = 1.0057255249553256 hours 
+
+iteration 165 completed with 158 wins, 19 losses 323 draws, out of 500 games played, e is 1.5 
+cost is 595.7426423295698 , current_time is Mon Jul 17 06:54:35 2017, time taken is 25.627379179000854 , total time = 1.012844241393937 hours 
+
+iteration 166 completed with 168 wins, 11 losses 321 draws, out of 500 games played, e is 0.7499999999999999 
+cost is 586.0275669181689 , current_time is Mon Jul 17 06:55:01 2017, time taken is 25.761279106140137 , total time = 1.0200001522567537 hours 
+
+iteration 167 completed with 162 wins, 1 losses 337 draws, out of 500 games played, e is -1.734723475976807e-16 
+cost is 545.0266220044393 , current_time is Mon Jul 17 06:55:25 2017, time taken is 24.282416820526123 , total time = 1.0267452680402331 hours 
+
+iteration 168 completed with 194 wins, 3 losses 303 draws, out of 500 games played, e is -0.7500000000000002 
+cost is 642.6360068658369 , current_time is Mon Jul 17 06:55:50 2017, time taken is 24.33576226234436 , total time = 1.0335052020019955 hours 
+
+iteration 169 completed with 160 wins, 3 losses 337 draws, out of 500 games played, e is -1.5000000000000002 
+cost is 531.6341856119725 , current_time is Mon Jul 17 06:56:16 2017, time taken is 26.233840942382812 , total time = 1.0407923800415464 hours 
+
+iteration 170 completed with 164 wins, 13 losses 323 draws, out of 500 games played, e is -2.2500000000000004 
+cost is 569.7054111256286 , current_time is Mon Jul 17 06:56:43 2017, time taken is 26.788248538970947 , total time = 1.0482335601912605 hours 
+
+iteration 171 completed with 169 wins, 9 losses 322 draws, out of 500 games played, e is -3.0000000000000004 
+cost is 616.0039798315318 , current_time is Mon Jul 17 06:57:07 2017, time taken is 23.66799569129944 , total time = 1.0548080034388436 hours 
+
+iteration 172 completed with 164 wins, 0 losses 336 draws, out of 500 games played, e is -3.7500000000000004 
+cost is 586.461453153349 , current_time is Mon Jul 17 06:57:29 2017, time taken is 22.652633905410767 , total time = 1.0611004017459023 hours 
+
+iteration 173 completed with 163 wins, 13 losses 324 draws, out of 500 games played, e is -4.500000000000001 
+cost is 585.320717866929 , current_time is Mon Jul 17 06:57:52 2017, time taken is 22.961469173431396 , total time = 1.0674785876274109 hours 
+
+iteration 174 completed with 178 wins, 0 losses 322 draws, out of 500 games played, e is -5.250000000000001 
+cost is 611.2225570110859 , current_time is Mon Jul 17 06:58:15 2017, time taken is 22.974568128585815 , total time = 1.0738604121075737 hours 
+
+iteration 175 completed with 185 wins, 14 losses 301 draws, out of 500 games played, e is -6.000000000000001 
+cost is 586.0880645643235 , current_time is Mon Jul 17 06:58:38 2017, time taken is 22.488215923309326 , total time = 1.0801071387529373 hours 
+
+iteration 176 completed with 192 wins, 5 losses 303 draws, out of 500 games played, e is -6.75 
+cost is 615.2456126264101 , current_time is Mon Jul 17 06:59:01 2017, time taken is 22.96009588241577 , total time = 1.0864849431647194 hours 
+
+iteration 177 completed with 152 wins, 12 losses 336 draws, out of 500 games played, e is -7.500000000000001 
+cost is 529.725476609332 , current_time is Mon Jul 17 06:59:24 2017, time taken is 22.87617015838623 , total time = 1.0928394348753823 hours 
+
+iteration 178 completed with 175 wins, 8 losses 317 draws, out of 500 games played, e is -8.250000000000002 
+cost is 589.7127413905109 , current_time is Mon Jul 17 06:59:48 2017, time taken is 23.75047779083252 , total time = 1.0994367898172803 hours 
+
+iteration 179 completed with 180 wins, 10 losses 310 draws, out of 500 games played, e is -9.000000000000002 
+cost is 620.7116027164411 , current_time is Mon Jul 17 07:00:13 2017, time taken is 25.07516360282898 , total time = 1.1064021130402883 hours 
+
+iteration 180 completed with 176 wins, 6 losses 318 draws, out of 500 games played, e is -9.750000000000004 
+cost is 627.4076232649023 , current_time is Mon Jul 17 07:00:37 2017, time taken is 23.959298133850098 , total time = 1.1130574736330243 hours 
+
+iteration 181 completed with 159 wins, 16 losses 325 draws, out of 500 games played, e is -10.500000000000004 
+cost is 570.2090780698427 , current_time is Mon Jul 17 07:01:01 2017, time taken is 23.6444890499115 , total time = 1.1196253872579998 hours 
+
+iteration 182 completed with 155 wins, 0 losses 345 draws, out of 500 games played, e is -11.250000000000004 
+cost is 535.8996526967226 , current_time is Mon Jul 17 07:01:26 2017, time taken is 24.607495307922363 , total time = 1.1264608026213117 hours 
+
+iteration 183 completed with 168 wins, 3 losses 329 draws, out of 500 games played, e is -12.000000000000005 
+cost is 553.8378387032853 , current_time is Mon Jul 17 07:01:49 2017, time taken is 23.231117486953735 , total time = 1.1329138908121321 hours 
+
+iteration 184 completed with 154 wins, 6 losses 340 draws, out of 500 games played, e is -12.750000000000005 
+cost is 565.3312853176677 , current_time is Mon Jul 17 07:02:16 2017, time taken is 27.308377504348755 , total time = 1.1404995512300067 hours 
+
+iteration 185 completed with 165 wins, 3 losses 332 draws, out of 500 games played, e is -13.500000000000007 
+cost is 573.8841457112721 , current_time is Mon Jul 17 07:02:42 2017, time taken is 25.594111442565918 , total time = 1.1476090266307195 hours 
+
+iteration 186 completed with 166 wins, 6 losses 328 draws, out of 500 games played, e is -14.250000000000007 
+cost is 555.1951358288006 , current_time is Mon Jul 17 07:03:08 2017, time taken is 25.51778769493103 , total time = 1.1546973009904227 hours 
+
+iteration 187 completed with 184 wins, 0 losses 316 draws, out of 500 games played, e is -15.000000000000007 
+cost is 602.6221160878254 , current_time is Mon Jul 17 07:03:31 2017, time taken is 23.793261528015137 , total time = 1.1613065403037601 hours 
+
+iteration 188 completed with 173 wins, 10 losses 317 draws, out of 500 games played, e is -15.750000000000009 
+cost is 604.8768555243078 , current_time is Mon Jul 17 07:03:55 2017, time taken is 23.259334087371826 , total time = 1.167767466439141 hours 
+
+iteration 189 completed with 156 wins, 1 losses 343 draws, out of 500 games played, e is -16.50000000000001 
+cost is 548.103897655664 , current_time is Mon Jul 17 07:04:19 2017, time taken is 24.517121076583862 , total time = 1.1745777778493034 hours 
+
+iteration 190 completed with 194 wins, 8 losses 298 draws, out of 500 games played, e is -17.25000000000001 
+cost is 628.9284781644383 , current_time is Mon Jul 17 07:04:43 2017, time taken is 23.670360326766968 , total time = 1.181152877940072 hours 
+
+iteration 191 completed with 209 wins, 9 losses 282 draws, out of 500 games played, e is -18.00000000000001 
+cost is 619.0123759137823 , current_time is Mon Jul 17 07:05:07 2017, time taken is 23.78202772140503 , total time = 1.1877589967515734 hours 
+
+iteration 192 completed with 167 wins, 3 losses 330 draws, out of 500 games played, e is -18.75000000000001 
+cost is 542.4201752105491 , current_time is Mon Jul 17 07:05:31 2017, time taken is 23.44879937171936 , total time = 1.1942725521326065 hours 
+
+iteration 193 completed with 178 wins, 6 losses 316 draws, out of 500 games played, e is -19.50000000000001 
+cost is 620.6547476029068 , current_time is Mon Jul 17 07:05:53 2017, time taken is 22.622377157211304 , total time = 1.2005565457873875 hours 
+
+iteration 194 completed with 177 wins, 11 losses 312 draws, out of 500 games played, e is -20.250000000000014 
+cost is 592.1005043326886 , current_time is Mon Jul 17 07:06:16 2017, time taken is 23.066327333450317 , total time = 1.206963858935568 hours 
+
+iteration 195 completed with 86 wins, 300 losses 114 draws, out of 500 games played, e is 50.0 
+cost is 713.8261893503309 , current_time is Mon Jul 17 07:06:36 2017, time taken is 19.83877205848694 , total time = 1.2124746289518145 hours 
+
+iteration 196 completed with 135 wins, 304 losses 61 draws, out of 500 games played, e is 49.25 
+cost is 837.7450746652096 , current_time is Mon Jul 17 07:06:54 2017, time taken is 18.01097559928894 , total time = 1.2174776777293947 hours 
+
+iteration 197 completed with 81 wins, 292 losses 127 draws, out of 500 games played, e is 48.5 
+cost is 720.0266681780963 , current_time is Mon Jul 17 07:07:14 2017, time taken is 19.931419610977173 , total time = 1.2230141831768884 hours 
+
+iteration 198 completed with 97 wins, 280 losses 123 draws, out of 500 games played, e is 47.75 
+cost is 691.3923022309557 , current_time is Mon Jul 17 07:07:35 2017, time taken is 20.92544913291931 , total time = 1.2288268079360327 hours 
+
+iteration 199 completed with 83 wins, 241 losses 176 draws, out of 500 games played, e is 47.0 
+cost is 613.7067396579259 , current_time is Mon Jul 17 07:08:00 2017, time taken is 24.825772285461426 , total time = 1.2357228557931053 hours 
+
+iteration 200 completed with 89 wins, 256 losses 155 draws, out of 500 games played, e is 46.25 
+cost is 648.7325508826484 , current_time is Mon Jul 17 07:08:21 2017, time taken is 20.241835355758667 , total time = 1.2413455878363715 hours 
+
+iteration 201 completed with 84 wins, 258 losses 158 draws, out of 500 games played, e is 45.49999999999999 
+cost is 700.0052768051553 , current_time is Mon Jul 17 07:08:44 2017, time taken is 23.290303230285645 , total time = 1.2478151165114508 hours 
+
+iteration 202 completed with 99 wins, 221 losses 180 draws, out of 500 games played, e is 44.74999999999999 
+cost is 610.8855246034364 , current_time is Mon Jul 17 07:09:05 2017, time taken is 20.74900770187378 , total time = 1.2535787297619714 hours 
+
+iteration 203 completed with 109 wins, 236 losses 155 draws, out of 500 games played, e is 43.99999999999999 
+cost is 756.7824228585941 , current_time is Mon Jul 17 07:09:26 2017, time taken is 21.370487689971924 , total time = 1.259514976342519 hours 
+
+iteration 204 completed with 74 wins, 255 losses 171 draws, out of 500 games played, e is 43.24999999999999 
+cost is 527.2319233202046 , current_time is Mon Jul 17 07:09:47 2017, time taken is 20.299702405929565 , total time = 1.2651537825663886 hours 
+
+iteration 205 completed with 93 wins, 246 losses 161 draws, out of 500 games played, e is 42.49999999999999 
+cost is 657.8955505906004 , current_time is Mon Jul 17 07:10:10 2017, time taken is 23.547342538833618 , total time = 1.2716947110493977 hours 
+
+iteration 206 completed with 81 wins, 266 losses 153 draws, out of 500 games played, e is 41.74999999999999 
+cost is 675.2685488748597 , current_time is Mon Jul 17 07:10:33 2017, time taken is 22.86865234375 , total time = 1.2780471144782173 hours 
+
+iteration 207 completed with 89 wins, 239 losses 172 draws, out of 500 games played, e is 40.99999999999999 
+cost is 685.1133784032404 , current_time is Mon Jul 17 07:10:54 2017, time taken is 20.700737476348877 , total time = 1.2837973193327585 hours 
+
+iteration 208 completed with 141 wins, 253 losses 106 draws, out of 500 games played, e is 40.24999999999999 
+cost is 779.2036931030398 , current_time is Mon Jul 17 07:11:16 2017, time taken is 21.927699089050293 , total time = 1.2898883468574949 hours 
+
+iteration 209 completed with 96 wins, 229 losses 175 draws, out of 500 games played, e is 39.49999999999999 
+cost is 621.0231814313188 , current_time is Mon Jul 17 07:11:38 2017, time taken is 22.359476327896118 , total time = 1.2960993125041327 hours 
+
+iteration 210 completed with 89 wins, 225 losses 186 draws, out of 500 games played, e is 38.74999999999999 
+cost is 725.6424434496806 , current_time is Mon Jul 17 07:12:00 2017, time taken is 21.943758249282837 , total time = 1.3021948009067112 hours 
+
+iteration 211 completed with 89 wins, 235 losses 176 draws, out of 500 games played, e is 37.999999999999986 
+cost is 572.9928138690411 , current_time is Mon Jul 17 07:12:22 2017, time taken is 21.465407848358154 , total time = 1.3081574141979218 hours 
+
+iteration 212 completed with 112 wins, 243 losses 145 draws, out of 500 games played, e is 37.249999999999986 
+cost is 842.7917579271825 , current_time is Mon Jul 17 07:12:43 2017, time taken is 21.046281814575195 , total time = 1.3140036035908593 hours 
+
+iteration 213 completed with 117 wins, 215 losses 168 draws, out of 500 games played, e is 36.499999999999986 
+cost is 703.3194691541139 , current_time is Mon Jul 17 07:13:06 2017, time taken is 22.974360704421997 , total time = 1.3203853704531987 hours 
+
+iteration 214 completed with 112 wins, 204 losses 184 draws, out of 500 games played, e is 35.749999999999986 
+cost is 650.8795359914066 , current_time is Mon Jul 17 07:13:29 2017, time taken is 22.334185123443604 , total time = 1.3265893107652664 hours 
+
+iteration 215 completed with 125 wins, 241 losses 134 draws, out of 500 games played, e is 34.999999999999986 
+cost is 618.0006258466675 , current_time is Mon Jul 17 07:13:48 2017, time taken is 19.691343784332275 , total time = 1.3320591284831365 hours 
+
+iteration 216 completed with 104 wins, 213 losses 183 draws, out of 500 games played, e is 34.249999999999986 
+cost is 703.540467759738 , current_time is Mon Jul 17 07:14:10 2017, time taken is 21.459275484085083 , total time = 1.3380200383398269 hours 
+
+iteration 217 completed with 113 wins, 200 losses 187 draws, out of 500 games played, e is 33.499999999999986 
+cost is 630.1766850285508 , current_time is Mon Jul 17 07:14:30 2017, time taken is 19.746861934661865 , total time = 1.3435052777661218 hours 
+
+iteration 218 completed with 102 wins, 185 losses 213 draws, out of 500 games played, e is 32.749999999999986 
+cost is 565.5204182387688 , current_time is Mon Jul 17 07:14:51 2017, time taken is 21.084432125091553 , total time = 1.3493620644675361 hours 
+
+iteration 219 completed with 101 wins, 174 losses 225 draws, out of 500 games played, e is 31.999999999999986 
+cost is 614.5778993304202 , current_time is Mon Jul 17 07:15:14 2017, time taken is 22.65544056892395 , total time = 1.3556552424033483 hours 
+
+iteration 220 completed with 108 wins, 206 losses 186 draws, out of 500 games played, e is 31.249999999999982 
+cost is 643.7691543384212 , current_time is Mon Jul 17 07:15:33 2017, time taken is 19.686836004257202 , total time = 1.3611238079600865 hours 
+
+iteration 221 completed with 102 wins, 169 losses 229 draws, out of 500 games played, e is 30.499999999999982 
+cost is 546.0724671955138 , current_time is Mon Jul 17 07:15:57 2017, time taken is 23.285173892974854 , total time = 1.367591911819246 hours 
+
+iteration 222 completed with 110 wins, 194 losses 196 draws, out of 500 games played, e is 29.749999999999982 
+cost is 620.7068413128561 , current_time is Mon Jul 17 07:16:17 2017, time taken is 19.67824697494507 , total time = 1.3730580915345085 hours 
+
+iteration 223 completed with 107 wins, 182 losses 211 draws, out of 500 games played, e is 28.999999999999982 
+cost is 571.9668460574339 , current_time is Mon Jul 17 07:16:36 2017, time taken is 19.724437475204468 , total time = 1.3785371019442876 hours 
+
+iteration 224 completed with 118 wins, 177 losses 205 draws, out of 500 games played, e is 28.249999999999982 
+cost is 656.3274239219327 , current_time is Mon Jul 17 07:16:57 2017, time taken is 20.325504541397095 , total time = 1.3841830754280091 hours 
+
+iteration 225 completed with 123 wins, 164 losses 213 draws, out of 500 games played, e is 27.49999999999998 
+cost is 695.6697660104273 , current_time is Mon Jul 17 07:17:18 2017, time taken is 20.660640239715576 , total time = 1.3899221421612633 hours 
+
+iteration 226 completed with 99 wins, 184 losses 217 draws, out of 500 games played, e is 26.74999999999998 
+cost is 537.0577200888038 , current_time is Mon Jul 17 07:17:39 2017, time taken is 21.05388379096985 , total time = 1.3957704432143105 hours 
+
+iteration 227 completed with 135 wins, 167 losses 198 draws, out of 500 games played, e is 25.99999999999998 
+cost is 764.4685125931201 , current_time is Mon Jul 17 07:17:59 2017, time taken is 20.595576524734497 , total time = 1.4014914366934035 hours 
+
+iteration 228 completed with 139 wins, 152 losses 209 draws, out of 500 games played, e is 25.24999999999998 
+cost is 701.507255868064 , current_time is Mon Jul 17 07:18:21 2017, time taken is 21.3941490650177 , total time = 1.4074342558781305 hours 
+
+iteration 229 completed with 123 wins, 141 losses 236 draws, out of 500 games played, e is 24.49999999999998 
+cost is 558.5719692755915 , current_time is Mon Jul 17 07:18:42 2017, time taken is 21.45616626739502 , total time = 1.413394302063518 hours 
+
+iteration 230 completed with 105 wins, 150 losses 245 draws, out of 500 games played, e is 23.749999999999975 
+cost is 561.6857415435043 , current_time is Mon Jul 17 07:19:06 2017, time taken is 23.788975477218628 , total time = 1.42000235080719 hours 
+
+iteration 231 completed with 115 wins, 155 losses 230 draws, out of 500 games played, e is 22.999999999999975 
+cost is 590.6136174171694 , current_time is Mon Jul 17 07:19:29 2017, time taken is 22.520230531692505 , total time = 1.4262579703993268 hours 
+
+iteration 232 completed with 135 wins, 153 losses 212 draws, out of 500 games played, e is 22.249999999999975 
+cost is 705.1467409884492 , current_time is Mon Jul 17 07:19:51 2017, time taken is 22.36752414703369 , total time = 1.4324711715512806 hours 
+
+iteration 233 completed with 123 wins, 139 losses 238 draws, out of 500 games played, e is 21.499999999999975 
+cost is 654.0221346941081 , current_time is Mon Jul 17 07:20:15 2017, time taken is 23.328608751296997 , total time = 1.438951340648863 hours 
+
+iteration 234 completed with 119 wins, 147 losses 234 draws, out of 500 games played, e is 20.749999999999975 
+cost is 593.2037024504407 , current_time is Mon Jul 17 07:20:38 2017, time taken is 23.317619562149048 , total time = 1.4454284571939044 hours 
+
+iteration 235 completed with 140 wins, 137 losses 223 draws, out of 500 games played, e is 19.99999999999997 
+cost is 677.0923250572382 , current_time is Mon Jul 17 07:21:00 2017, time taken is 21.57397747039795 , total time = 1.4514212287134594 hours 
+
+iteration 236 completed with 126 wins, 128 losses 246 draws, out of 500 games played, e is 19.24999999999997 
+cost is 618.4409430204478 , current_time is Mon Jul 17 07:21:23 2017, time taken is 23.629347562789917 , total time = 1.4579849363697899 hours 
+
+iteration 237 completed with 143 wins, 126 losses 231 draws, out of 500 games played, e is 18.49999999999997 
+cost is 719.0228080974084 , current_time is Mon Jul 17 07:21:44 2017, time taken is 20.225589752197266 , total time = 1.4636031557454003 hours 
+
+iteration 238 completed with 127 wins, 131 losses 242 draws, out of 500 games played, e is 17.74999999999997 
+cost is 602.1744962368939 , current_time is Mon Jul 17 07:22:06 2017, time taken is 22.303277254104614 , total time = 1.4697985105382072 hours 
+
+iteration 239 completed with 143 wins, 120 losses 237 draws, out of 500 games played, e is 16.99999999999997 
+cost is 642.0026620709275 , current_time is Mon Jul 17 07:22:28 2017, time taken is 21.59713315963745 , total time = 1.475797714193662 hours 
+
+iteration 240 completed with 147 wins, 107 losses 246 draws, out of 500 games played, e is 16.24999999999997 
+cost is 602.3781587283061 , current_time is Mon Jul 17 07:22:50 2017, time taken is 22.429601192474365 , total time = 1.4820281589693494 hours 
+
+iteration 241 completed with 155 wins, 97 losses 248 draws, out of 500 games played, e is 15.49999999999997 
+cost is 664.6558117899208 , current_time is Mon Jul 17 07:23:15 2017, time taken is 24.683952808380127 , total time = 1.4888848125272327 hours 
+
+iteration 242 completed with 128 wins, 80 losses 292 draws, out of 500 games played, e is 14.749999999999968 
+cost is 505.4920143563013 , current_time is Mon Jul 17 07:23:38 2017, time taken is 23.10285258293152 , total time = 1.495302271578047 hours 
+
+iteration 243 completed with 140 wins, 98 losses 262 draws, out of 500 games played, e is 13.999999999999968 
+cost is 678.7076855280616 , current_time is Mon Jul 17 07:24:01 2017, time taken is 22.34628415107727 , total time = 1.501509572731124 hours 
+
+iteration 244 completed with 152 wins, 99 losses 249 draws, out of 500 games played, e is 13.249999999999968 
+cost is 654.4330964863259 , current_time is Mon Jul 17 07:24:22 2017, time taken is 21.492385625839233 , total time = 1.5074796798494128 hours 
+
+iteration 245 completed with 126 wins, 97 losses 277 draws, out of 500 games played, e is 12.499999999999966 
+cost is 559.8375042377356 , current_time is Mon Jul 17 07:24:44 2017, time taken is 21.88033962249756 , total time = 1.5135575519667732 hours 
+
+iteration 246 completed with 139 wins, 72 losses 289 draws, out of 500 games played, e is 11.749999999999966 
+cost is 596.725442644685 , current_time is Mon Jul 17 07:25:10 2017, time taken is 25.644947052001953 , total time = 1.520681148370107 hours 
+
+iteration 247 completed with 135 wins, 90 losses 275 draws, out of 500 games played, e is 10.999999999999964 
+cost is 578.4337950872173 , current_time is Mon Jul 17 07:25:31 2017, time taken is 21.398615837097168 , total time = 1.5266252083248562 hours 
+
+iteration 248 completed with 130 wins, 70 losses 300 draws, out of 500 games played, e is 10.249999999999964 
+cost is 545.4079051481517 , current_time is Mon Jul 17 07:25:53 2017, time taken is 21.87181329727173 , total time = 1.5327007120185427 hours 
+
+iteration 249 completed with 169 wins, 65 losses 266 draws, out of 500 games played, e is 9.499999999999964 
+cost is 597.6805525245244 , current_time is Mon Jul 17 07:26:15 2017, time taken is 21.13218069076538 , total time = 1.538570762210422 hours 
+
+iteration 250 completed with 154 wins, 79 losses 267 draws, out of 500 games played, e is 8.749999999999963 
+cost is 539.6498669495641 , current_time is Mon Jul 17 07:26:36 2017, time taken is 21.345009565353394 , total time = 1.5444999315341315 hours 
+
+iteration 251 completed with 166 wins, 49 losses 285 draws, out of 500 games played, e is 7.999999999999963 
+cost is 649.8898554291732 , current_time is Mon Jul 17 07:26:59 2017, time taken is 22.424664735794067 , total time = 1.5507290050718519 hours 
+
+iteration 252 completed with 144 wins, 44 losses 312 draws, out of 500 games played, e is 7.249999999999962 
+cost is 598.4011364556427 , current_time is Mon Jul 17 07:27:22 2017, time taken is 23.181703805923462 , total time = 1.557168367240164 hours 
+
+iteration 253 completed with 178 wins, 43 losses 279 draws, out of 500 games played, e is 6.499999999999961 
+cost is 643.0431477837374 , current_time is Mon Jul 17 07:27:44 2017, time taken is 22.09107255935669 , total time = 1.5633047762844297 hours 
+
+iteration 254 completed with 154 wins, 39 losses 307 draws, out of 500 games played, e is 5.749999999999962 
+cost is 559.2287337845406 , current_time is Mon Jul 17 07:28:07 2017, time taken is 22.88884449005127 , total time = 1.5696627886427774 hours 
+
+iteration 255 completed with 162 wins, 51 losses 287 draws, out of 500 games played, e is 4.999999999999962 
+cost is 598.9611063258644 , current_time is Mon Jul 17 07:28:29 2017, time taken is 21.986965894699097 , total time = 1.5757702791690826 hours 
+
+iteration 256 completed with 142 wins, 31 losses 327 draws, out of 500 games played, e is 4.249999999999962 
+cost is 587.2114915225284 , current_time is Mon Jul 17 07:28:52 2017, time taken is 22.459515810012817 , total time = 1.5820090335607528 hours 
+
+iteration 257 completed with 180 wins, 43 losses 277 draws, out of 500 games played, e is 3.4999999999999614 
+cost is 607.0846600630939 , current_time is Mon Jul 17 07:29:13 2017, time taken is 21.7802894115448 , total time = 1.5880591139528486 hours 
+
+iteration 258 completed with 168 wins, 14 losses 318 draws, out of 500 games played, e is 2.7499999999999614 
+cost is 561.7590473012825 , current_time is Mon Jul 17 07:29:36 2017, time taken is 22.331979036331177 , total time = 1.5942624414629407 hours 
+
+iteration 259 completed with 168 wins, 14 losses 318 draws, out of 500 games played, e is 1.9999999999999616 
+cost is 588.1901563284706 , current_time is Mon Jul 17 07:30:00 2017, time taken is 23.92484998703003 , total time = 1.6009082331260045 hours 
+
+iteration 260 completed with 159 wins, 11 losses 330 draws, out of 500 games played, e is 1.2499999999999616 
+cost is 548.9679972409068 , current_time is Mon Jul 17 07:30:25 2017, time taken is 25.06026792526245 , total time = 1.6078694186607996 hours 
+
+iteration 261 completed with 168 wins, 8 losses 324 draws, out of 500 games played, e is 0.4999999999999615 
+cost is 564.497536797867 , current_time is Mon Jul 17 07:30:50 2017, time taken is 24.629116773605347 , total time = 1.614710839986801 hours 
+
+iteration 262 completed with 176 wins, 9 losses 315 draws, out of 500 games played, e is -0.2500000000000386 
+cost is 594.6021299191088 , current_time is Mon Jul 17 07:31:14 2017, time taken is 23.846439123153687 , total time = 1.621334850854344 hours 
+
+iteration 263 completed with 134 wins, 2 losses 364 draws, out of 500 games played, e is -1.0000000000000386 
+cost is 483.06090801359505 , current_time is Mon Jul 17 07:31:38 2017, time taken is 24.039125680923462 , total time = 1.6280123857657114 hours 
+
+iteration 264 completed with 163 wins, 0 losses 337 draws, out of 500 games played, e is -1.7500000000000386 
+cost is 531.9105349033454 , current_time is Mon Jul 17 07:32:03 2017, time taken is 24.808677673339844 , total time = 1.634903685119417 hours 
+
+iteration 265 completed with 180 wins, 2 losses 318 draws, out of 500 games played, e is -2.5000000000000386 
+cost is 609.8021275531064 , current_time is Mon Jul 17 07:32:26 2017, time taken is 23.61928153038025 , total time = 1.6414645966556338 hours 
+
+iteration 266 completed with 170 wins, 0 losses 330 draws, out of 500 games played, e is -3.250000000000039 
+cost is 553.1326442981517 , current_time is Mon Jul 17 07:32:51 2017, time taken is 24.861560344696045 , total time = 1.6483705856402715 hours 
+
+iteration 267 completed with 152 wins, 0 losses 348 draws, out of 500 games played, e is -4.000000000000039 
+cost is 533.4855792873595 , current_time is Mon Jul 17 07:33:17 2017, time taken is 26.002025604248047 , total time = 1.6555933705303405 hours 
+
+iteration 268 completed with 156 wins, 1 losses 343 draws, out of 500 games played, e is -4.750000000000039 
+cost is 516.2298181780785 , current_time is Mon Jul 17 07:33:41 2017, time taken is 23.800241231918335 , total time = 1.6622045486503176 hours 
+
+iteration 269 completed with 154 wins, 1 losses 345 draws, out of 500 games played, e is -5.500000000000039 
+cost is 525.9919664190584 , current_time is Mon Jul 17 07:34:05 2017, time taken is 23.387449979782104 , total time = 1.6687010625335905 hours 
+
+iteration 270 completed with 168 wins, 10 losses 322 draws, out of 500 games played, e is -6.250000000000039 
+cost is 563.1870318384426 , current_time is Mon Jul 17 07:34:33 2017, time taken is 27.73324728012085 , total time = 1.6764047423336241 hours 
+
+iteration 271 completed with 192 wins, 1 losses 307 draws, out of 500 games played, e is -7.000000000000039 
+cost is 615.6376188949253 , current_time is Mon Jul 17 07:34:58 2017, time taken is 25.80290961265564 , total time = 1.6835722172260283 hours 
+
+iteration 272 completed with 185 wins, 0 losses 315 draws, out of 500 games played, e is -7.75000000000004 
+cost is 575.8816404227446 , current_time is Mon Jul 17 07:35:21 2017, time taken is 22.7274386882782 , total time = 1.689885394639439 hours 
+
+iteration 273 completed with 183 wins, 0 losses 317 draws, out of 500 games played, e is -8.50000000000004 
+cost is 560.0743603870185 , current_time is Mon Jul 17 07:35:45 2017, time taken is 23.386816024780273 , total time = 1.6963817324241002 hours 
+
+iteration 274 completed with 148 wins, 0 losses 352 draws, out of 500 games played, e is -9.25000000000004 
+cost is 510.2038645644177 , current_time is Mon Jul 17 07:36:09 2017, time taken is 24.03002643585205 , total time = 1.7030567397673926 hours 
+
+iteration 275 completed with 173 wins, 0 losses 327 draws, out of 500 games played, e is -10.000000000000043 
+cost is 581.4684899411432 , current_time is Mon Jul 17 07:36:34 2017, time taken is 25.450160026550293 , total time = 1.7101262286636565 hours 
+
+iteration 276 completed with 174 wins, 0 losses 326 draws, out of 500 games played, e is -10.750000000000043 
+cost is 564.2646355356493 , current_time is Mon Jul 17 07:37:01 2017, time taken is 26.91289448738098 , total time = 1.7176020326879289 hours 
+
+iteration 277 completed with 159 wins, 0 losses 341 draws, out of 500 games played, e is -11.500000000000043 
+cost is 537.7691219511721 , current_time is Mon Jul 17 07:37:26 2017, time taken is 24.214908838272095 , total time = 1.7243283962541156 hours 
+
