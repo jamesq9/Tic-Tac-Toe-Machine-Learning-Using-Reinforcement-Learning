@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Machine-Leaning-Using-Reinforcement-Learning
 
-A Python Program for implementing Machine Learning for the Game Tic Tac Toe (3x3) using Reinforcement Learning (Q learning technique) and tensorflow.
+A Python Program to implement Machine Learning for the Game Tic Tac Toe (3x3) using Reinforcement Learning (Q learning technique) and tensorflow.
 
 Tested on windows and ubutnu with Python 3.5.2 (packages numpy, tensorflow and flask are required)
 
