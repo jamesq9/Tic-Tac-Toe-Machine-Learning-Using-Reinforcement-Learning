@@ -4,12 +4,12 @@ A Python Program for implementing Machine Learning for the Game Tic Tac Toe (3x3
 
 Tested on windows and ubutnu with Python 3.5.2 (packages numpy, tensorflow and flask are required)
 
-To train the model, Run the below command:
-  python deep_reinforcement_learning.py
+<b>To train the model, Run the below command:</b><br>
+python deep_reinforcement_learning.py
 
 Note: if its not the first time that your training the model you might want to change e = epsilon to e = 0 on line 214
 
-To Play the game with Ticky, Run the below command:
-  python server.py
+<b>To Play the game with Ticky, Run the below command:</b><br>
+python server.py
  
 Note: you might want to change the server port address on line 61 if needed.
